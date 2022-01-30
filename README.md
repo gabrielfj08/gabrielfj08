@@ -3,8 +3,8 @@
 <h3>-Hoje estou aprendendo a programar em python, em questões escolares estou no 1° ano do ensino médio.</h3>
 <div>
   <a href="https://github.com/gabrielfj08">
-    <img heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=gabrielfj08&show_icons=true&theme=merko">
-    <img heigt="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfj08&layout=compact&langs_count=16&theme=merko")</p>
+    <img heigt="100cm" src="https://github-readme-stats.vercel.app/api?username=gabrielfj08&show_icons=true&theme=merko">
+    <img heigt="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfj08&layout=compact&langs_count=16&theme=merko")</p>
 
 
   <div style="display: inline_block"><br>
