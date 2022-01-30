@@ -1,6 +1,6 @@
 <h2>Olá eu sou o Gabrielfj08</h2>
-<br>-Atualmente estou interessado em desenvolvimento de programas em python.
-<br>-Hoje estou aprendendo a programar em python, em questões escolares estou no 1° ano do ensino médio.
+<h3>-Atualmente estou interessado em desenvolvimento de programas em python.</h3>
+<h3>-Hoje estou aprendendo a programar em python, em questões escolares estou no 1° ano do ensino médio.</h3>
 <div>
   <a href="https://github.com/gabrielfj08">
     <img heigt="180cm" src="https://github-readme-stats.vercel.app/api?username=gabrielfj08&show_icons=true&theme=merko">
