@@ -1,6 +1,11 @@
-<h2>Olá eu sou o Gabrielfj08</h2>
-<h3>-Atualmente estou interessado em desenvolvimento de programas em python.</h3>
-<h3>-Hoje estou aprendendo a programar em python, em questões escolares estou no 1° ano do ensino médio.</h3>
+# Quem sou eu:
+
+
+![DollPicture-71a4d444-7991-42f1-a230-216472a9419b](https://user-images.githubusercontent.com/98466182/151891597-20d6b55e-9d6c-479b-b6fd-3dfa2ef7f270.png)
+
+
+Eu,Gabriel, estou me desenvolvendo na área de tecnologia, mais especificadamente como um desenvolvedor de programas.<br />
+Sou um estudante do encino médio, duranrate os meus momentos de lazer gosto de desenhar fico com a minha fámilia e jogo um pouco
 <div>
   <a href="https://github.com/gabrielfj08">
     <img heigt="100cm" src="https://github-readme-stats.vercel.app/api?username=gabrielfj08&show_icons=true&theme=merko">
