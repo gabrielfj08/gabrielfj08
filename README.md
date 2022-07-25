@@ -5,7 +5,7 @@
 
 
 Eu,Gabriel, estou me desenvolvendo na área de tecnologia, mais especificadamente como um desenvolvedor de programas.<br />
-Sou um estudante do encino médio, duranrate os meus momentos de lazer gosto de desenhar fico com a minha fámilia e jogo um pouco
+Sou um estudante do ensino médio, durante os meus momentos de lazer gosto de desenhar fico com a minha fámilia e jogo um pouco
 <div>
   <a href="https://github.com/gabrielfj08">
     <img heigt="100cm" src="https://github-readme-stats.vercel.app/api?username=gabrielfj08&show_icons=true&theme=merko">
